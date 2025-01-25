@@ -1,7 +1,7 @@
 
 function Item({item,incQuantity,decQuantity,deleteItem,editItem}) {
     return (
-        <tr>
+        <tr className={item.quantity < 10 ? "bg-red-100" : ""}>
             <td>{item.item}</td>
             <td>{item.desc}</td>
             <td>{item.price}</td>
