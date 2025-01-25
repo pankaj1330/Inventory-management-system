@@ -65,3 +65,6 @@ Follow these steps to set up and run the project locally:
 5. **Responsive Design**:
    - Use the application on any device and experience a user-friendly layout.
 
+## Live Link
+visit : https://inventory-management-system-rho-peach.vercel.app/
+
